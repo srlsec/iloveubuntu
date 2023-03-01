@@ -8,6 +8,8 @@ purple="\033[37;1m"
 cyan="\033[36;1m"
 white="\033[39;1m"
 
+# https://github.com/olaviolacerda/ubuntu-setup
+
 lagi=1
 while [ $lagi -lt 6 ];
 do
